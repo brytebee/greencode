@@ -24,7 +24,7 @@ A modern, responsive landing page for a premium software development agency buil
 1. **Clone and install:**
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/brytebee/greencode.git
 cd greencode-landing
 npm install
 ```
